@@ -1,16 +1,17 @@
 import { useState } from 'react'
 import './App.css'
-import PuppyImage from "./PuppyImage"
+import ColourCounter from "./ColourCounter"
 
 function App() {
-  const [count, setCount] = useState(0)
+  
 
   return (
     <>
       
-      <PuppyImage></PuppyImage>
+      <ColourCounter/>
     </>
   )
 }
-
+//<ColourCounter></ColourCounter>
+//<PuppyImage></PuppyImage>
 export default App

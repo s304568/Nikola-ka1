@@ -1,0 +1,24 @@
+
+.Big_div{
+    display: flex;
+    
+    
+}
+
+.Blue{
+    padding: 20px;
+    width: 25%;
+    background-color: blue;
+     
+}
+
+.Red{
+    padding: 20px;
+    width: 25%;
+    background-color: red;
+    
+}
+
+button{
+    padding: 15px 30px 15px 30px;
+}
